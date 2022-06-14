@@ -16,6 +16,6 @@ Secured webhook address + List of registries
 
 Incoming webhook events should allow for dynamic setup of new deployment sources. E.g. a webhook from a private repository with nomad-packs, can be used to auto deploy those services to a cluster.
 
-A list of registries should be supported as env variable to deploy from those registries daily.
+A list of registries should be supported as env variable to deploy from those registries at timed intervals.
 
 Inclusive or exclusive filters on what to deploy should be added.
