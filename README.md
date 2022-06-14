@@ -1,5 +1,7 @@
 # nomad-pack-gitops-operator
 
+This is a WIP.
+
 ## Steps to MVP
 
 - [ ] Create C# Project
