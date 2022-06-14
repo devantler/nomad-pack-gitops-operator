@@ -5,7 +5,7 @@ This is a WIP.
 ## Steps to MVP
 
 - [ ] Create C# Project
-- [ ] Listen and react to multiple webhook events / Run daily
+- [ ] Listen and react to multiple webhook events for dynamic configuration of deployment sources / Run at timed intervals for manual deployment sources.
 - [ ] Run nomad-pack registry for all specified registries
 - [ ] Check which nomad-packs have been updated based on registry version number vs currently deployed service number.
 - [ ] Run nomad-pack run for all updated services. 
