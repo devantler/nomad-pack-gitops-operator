@@ -4,11 +4,11 @@ This is a WIP.
 
 ## Steps to MVP
 
-- [ ] Create C# Project
+- [ ] Create C# Project, Dockerfile and GitHub Action with Nightly and Releases pipeline. 
 - [ ] Listen and react to multiple webhook events for dynamic configuration of deployment sources / Run at timed intervals for manual deployment sources.
 - [ ] Run nomad-pack registry for all specified registries
 - [ ] Check which nomad-packs have been updated based on registry version number vs currently deployed service number.
-- [ ] Run nomad-pack run for all updated services. 
+- [ ] Run nomad-pack run for all updated services.
 
 ## Requirements for the Application
 
